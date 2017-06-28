@@ -1,4 +1,4 @@
-# 작업 전 메모
+# 작업 메모
 ## 폰트 관련
 - 전체적으로 네가지 종류의 서체를 사용
     - 일반 제목용 서체 -> Lato 700
@@ -12,3 +12,7 @@
     - typography
     - reset
     - footer
+    - navigation
+    - variables
+    - element
+    - layout
