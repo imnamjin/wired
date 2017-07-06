@@ -8,11 +8,15 @@
 
 ## CSS 모듈화
 - 어떻게 나눌까
-    - header
-    - typography
     - reset
-    - footer
+    - header
     - navigation
+    - typography
+    - footer
     - variables
     - element
     - layout
+    - javascript
+
+## 공통 클래스
+- lnk-text
